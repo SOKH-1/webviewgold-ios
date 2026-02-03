@@ -20,8 +20,8 @@ var app_admin_email = "app_admin@example.org"
 // *** Your Website ***
 
 // 4. Enter your website details here:
-var host = "blockstream.info" //Set your domain host without http:// or https:// prefixes and without any subdomain like "www."
-var webviewurl = "https://blockstream.info" //Set your full web app/website URL including http:// or https:// prefix and including subdomains if they are in your URL, like "www.", for example
+var host = "moltbook.com" //Set your domain host without http:// or https:// prefixes and without any subdomain like "www."
+var webviewurl = "https://moltbook.com" //Set your full web app/website URL including http:// or https:// prefix and including subdomains if they are in your URL, like "www.", for example
 
 // 5. You are all done! Enjoy your app! :-)
 

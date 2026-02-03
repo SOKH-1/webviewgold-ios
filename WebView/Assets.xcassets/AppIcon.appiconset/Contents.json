@@ -42,7 +42,6 @@
       "size" : "38x38"
     },
     {
-      "filename" : "icon_80.png",
       "idiom" : "universal",
       "platform" : "ios",
       "scale" : "2x",
@@ -62,7 +61,6 @@
       "size" : "60x60"
     },
     {
-      "filename" : "icon_180.png",
       "idiom" : "universal",
       "platform" : "ios",
       "scale" : "3x",
